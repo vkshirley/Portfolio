@@ -1,2 +1,2 @@
 # Portfolio
-My portfolio that i have made
+Portfolio Website which is developed using HTML, CSS, Bootstrap, JavaScript and jQuery
