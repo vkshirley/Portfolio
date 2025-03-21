@@ -1,6 +1,6 @@
 //typed strings
 var type = new Typed('#typed', {
-    strings: ["I am a Frontend Angular Developer", "I love to create"],
+    strings: ["I am a Frontend Angular Developer","Passionate web developer", "I love to create"],
     stringsElement: null,
     typeSpeed: 25,
     startDelay: 1000,
